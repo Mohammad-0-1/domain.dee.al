@@ -16,6 +16,12 @@
   "koneksi": "A",
   "hostku": "bee-ntfy",
   "target": "144.24.42.50"
-} 
+},
+  
+  {
+"koneksi": "A",
+"hostku": "prison", 
+"target": "91.107.184.202" 
+}
 
 ]
